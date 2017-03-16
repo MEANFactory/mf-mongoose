@@ -1,0 +1,46 @@
+{
+  "name": "mf-mongoose",
+  "version": "1.0.0",
+  "description": "All Mongoose plugins developed by MEAN Factory.",
+  "main": "echo \"This is a convenience package and cannot be run directly.\"",
+  "scripts": {
+    "test": "echo \"Tests must be run on individual projects.\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MEANFactory/mf-mongoose.git"
+  },
+  "keywords": [
+    "mongoose",
+    "dto",
+    "toObject",
+    "toJSON",
+    "validtion",
+    "hiding",
+    "acl"
+  ],
+  "author": {
+    "name": "MEAN Factory",
+    "email": "support@meanfactory.com",
+    "url": "http://www.meanfactory.com/"
+  },
+  "contributors": [
+    {
+      "name": "Fred Lackey",
+      "email": "fred.lackey@gmail.com",
+      "url": "http://www.fredlackey.com/"
+    }
+  ],
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/MEANFactory/mf-mongoose/issues"
+  },
+  "homepage": "https://github.com/MEANFactory/mf-mongoose#readme",
+  "dependencies": {
+    "mf-mongoose-audittrail": "^1.0.0",
+    "mf-mongoose-dto": "^1.0.0",
+    "mf-mongoose-plugins": "^1.0.0",
+    "mf-mongoose-softdelete": "^1.0.0",
+    "mf-mongoose-validation": "^1.0.0"
+  }
+}
