@@ -1,6 +1,6 @@
 {
   "name": "mf-mongoose",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "All Mongoose plugins developed by MEAN Factory.",
   "main": "echo \"This is a convenience package and cannot be run directly.\"",
   "scripts": {
@@ -37,7 +37,7 @@
   },
   "homepage": "https://github.com/MEANFactory/mf-mongoose#readme",
   "dependencies": {
-    "mf-mongoose-audittrail": "^1.0.4",
+    "mf-mongoose-audittrail": "^1.0.5",
     "mf-mongoose-dto": "^1.0.4",
     "mf-mongoose-plugins": "^1.0.3",
     "mf-mongoose-softdelete": "^1.0.4",
